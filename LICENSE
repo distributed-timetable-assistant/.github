@@ -1,21 +1,9 @@
-MIT License
+License
 
-Copyright (c) 2025 Distributed Timetable Assistant
+The Distributed Timetable Assistant (DTA) project, including its source code, design, documentation, and conceptual framework, is the exclusive intellectual property of its owner.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+No part of this project — including but not limited to the ideas, algorithms, architectural design, or implementation details — may be copied, reproduced, modified, distributed, or utilized in any form, whether commercial or non-commercial, without explicit prior written permission from the owner.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Unauthorized use, replication, or distribution of any component of this project constitutes a violation of intellectual property rights and may lead to legal action.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+© 2025 DTA Project. All Rights Reserved.
