@@ -1,5 +1,5 @@
-# Distributed Timetable Assistant (DTA)
+# Distributed Timetable Assistant (DiTA)
 
-DTA is a decentralized educational scheduling platform.
+DiTA is a decentralized educational scheduling platform.
 
-📜 **License:** [View DTA Proprietary License](../LICENSE)
+📜 **License:** [View DiTA Proprietary License](../LICENSE)
